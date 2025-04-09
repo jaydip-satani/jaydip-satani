@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm an enthusiastic Web Developer with a strong fo
 ## 📫 Let's Connect
 
 🔹 **LinkedIn:** [Jaydip Satani](https://www.linkedin.com/in/jaydip-satani/)       
+🔹 **Portfolio:** [Jaydip Satani](https://www.jaydipsatani.com/)       
 🔹 **Twitter:** [Jaydip Satani](https://x.com/jaydipsatani__)     
 🔹 **Instagram:** [Jaydip Satani](https://www.instagram.com/jaydipsatani__/)  
 
