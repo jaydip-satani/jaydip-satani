@@ -1,4 +1,6 @@
-# 👋 Hey there! I'm Jaydip Satani     [![Support via Razorpay](https://img.shields.io/badge/Buy%20Me%20a%20Chai-%E2%98%95-orange?style=for-the-badge)](https://razorpay.me/@jaydipsatani)
+# 👋 Hey there! I'm Jaydip Satani        <a href="https://razorpay.me/@jaydipsatani" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Chai-%E2%98%95-orange?style=for-the-badge" />
+</a>
 
 Welcome to my GitHub profile! I'm an enthusiastic **Web Developer** with a strong focus on **backend development**. I love building scalable, secure, and high-performance web applications.
 
