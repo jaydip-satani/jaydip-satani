@@ -116,7 +116,7 @@ If you have any openings or know of opportunities that align with my profile, Iâ
   <img src="https://github-readme-stats.vercel.app/api?username=jaydip-satani&show_icons=true&theme=github_dark&hide_border=true&card_width=490" alt="Jaydip Satani GitHub Stats" />
 </a>
 <a href="https://github.com/jaydip-satani">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydip-satani&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Jaydip Satani GitHub Streak" />
+  <img src="https://stats.jaydipsatani.com/?user=jaydip-satani&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Jaydip Satani GitHub Streak" />
 </a>
 <br>
 <a href="https://github.com/jaydip-satani/jaydip-satani">
