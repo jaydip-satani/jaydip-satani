@@ -132,7 +132,7 @@ RESTful APIs</p>
 | <a href="https://github.com/jaydip-satani"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydip-satani&theme=gotham&layout=compact&langs_count=20" alt="Top Languages" /></a> | <p align="center"><img src="https://komarev.com/ghpvc/?username=jaydip-satani&label=PROFILE+VIEWS&color=34D399&style=for-the-badge" alt="Profile Views" /><br><a href="https://razorpay.me/@jaydipsatani" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Chai-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Chai"></a></p> |
 
 <a href="https://github.com/jaydip-satani/jaydip-satani">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaydip-satani&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=jaydip-satani&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1&row=1" alt="Trophies" />
 </a>
 
 </div>
